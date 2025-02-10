@@ -1,7 +1,7 @@
 <title>Salut toi !</title>
 
 <textarea></textarea>
-[![Rakou's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakou-fr)](https://github.com/anuraghazra/github-readme-stats)
+![Stats GitHub Rakou](https://github-readme-stats.vercel.app/api?username=rakou-fr&show_icons=true&theme=radical)
 <!--
 **rakou-fr/rakou-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
