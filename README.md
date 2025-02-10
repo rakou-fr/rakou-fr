@@ -1,6 +1,3 @@
-<title>Salut toi !</title>
-
-<textarea></textarea>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakou-fr&layout=compact&theme=radical)-->
 ![Stats GitHub Rakou](https://github-readme-stats.vercel.app/api?username=rakou-fr&show_icons=true&theme=radical)
 <!--
