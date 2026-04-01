@@ -1,16 +1,16 @@
 # 👋 Salut, moi c'est [Ton Prénom]
 
-💻 Développeur passionné  
-🚀 J’aime construire des apps utiles et propres  
+💻 Développeur FullStack  
+🚀 Je crée des trucs  
 📍 Basé en France  
 
 ---
 
 ## 🧠 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **[ton projet]**
-- 🌱 J’apprends : **[technos actuelles]**
-- ⚡ Fun fact : **[petit truc perso]**
+- 🔭 Je travaille actuellement sur : **Retools CRM WEB d'achat revente**
+- 🌱 J’apprends : **Electron**
+- ⚡ Fun fact : **Ban pour cheat de Root.Me**
 
 ---
 
@@ -29,15 +29,15 @@
 
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rakou-frE&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakou-fr&layout=compact&theme=tokyonight)
 
 ---
 
 ## 👀 Compteur de visiteurs
 
-![Visitors](https://komarev.com/ghpvc/?username=TON_USERNAME&color=blue&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=rakou-fr&color=blue&style=for-the-badge)
 
 👉 Ça affiche combien de fois ton profil a été vu.
 
@@ -45,29 +45,14 @@
 
 ## 🔥 Streak (activité)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Me contacter
-
-- 📧 Email : tonmail@email.com  
-- 💼 LinkedIn : https://linkedin.com/in/tonprofil  
-- 🌐 Portfolio : https://tonsite.com  
-
----
-
-## 🧩 Projets en avant
-
-- 🚀 [Nom du projet](lien) — petite description
-- 📊 [Nom du projet](lien) — petite description
+![GitHub Streak](https://streak-stats.demolab.com?user=rakou-fr&theme=tokyonight)
 
 ---
 
 ## 🎯 Objectifs 2026
 
 - ✔️ Améliorer mes skills en backend  
-- ✔️ Lancer un SaaS  
+- ✔️ Lancer plusieurs projets  
 - ✔️ Contribuer à l’open source  
 
 ---
