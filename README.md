@@ -52,13 +52,6 @@
 
 ---
 
-## 📊 Stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rakou-frE&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakou-fr&layout=compact&theme=tokyonight)
-
----
 
 ## 👀 Compteur de visiteurs
 
@@ -78,7 +71,8 @@
 
 - ✔️ Améliorer mes skills en backend  
 - ✔️ Lancer plusieurs projets  
-- ✔️ Contribuer à l’open source  
+- ✔️ Contribuer à l’open source
+- ✔️ Trouver une alternance pour BTS SIO SLAM
 
 ---
 
