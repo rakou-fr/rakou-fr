@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [Ton Prénom]
+# 👋 Salut,
 
 💻 Développeur FullStack  
 🚀 Je crée des trucs  
