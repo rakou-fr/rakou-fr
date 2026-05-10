@@ -8,7 +8,7 @@
 
 ## 🧠 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **Retools CRM WEB d'achat revente**
+- 🔭 Je travaille actuellement sur : **Loigiciels interne chez McDonald's**
 - 🌱 J’apprends : **Electron**
 - ⚡ Fun fact : **Ban pour cheat de Root.Me**
 
