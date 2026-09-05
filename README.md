@@ -8,7 +8,8 @@
 
 ## 🧠 À propos de moi
 
-- 🔭 Je travaille actuellement sur : **Loigiciels interne chez McDonald's**
+- 🔭 En alternance chez : **McDonald's**
+- 💻 Mission : **Chef de projet et développeur logiciel**
 - 🌱 J’apprends : **Electron**
 - ⚡ Fun fact : **Ban pour cheat de Root.Me**
 
@@ -72,7 +73,6 @@
 - ✔️ Améliorer mes skills en backend  
 - ✔️ Lancer plusieurs projets  
 - ✔️ Contribuer à l’open source
-- ✔️ Trouver une alternance pour BTS SIO SLAM
 
 ---
 
