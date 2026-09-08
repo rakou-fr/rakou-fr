@@ -58,7 +58,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=rakou-fr&color=blue&style=for-the-badge)
 
-👉 Ça affiche combien de fois ton profil a été vu.
 
 ---
 
